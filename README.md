@@ -1,6 +1,6 @@
 # Instant Messaging App
 
-A **real-time messaging applcation** designed for effortless communication. Features include:
+A **real-time messaging application** designed for effortless communication. Features include:
 
 - **Direct & Group Chats**: Connect with individuals or teams.
 - **Reactions & Replies**: Express yourself and keep conversations organized.
