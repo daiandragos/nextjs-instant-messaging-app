@@ -59,18 +59,6 @@ function ViceoCall() {
     );
   }
 
-  //   if (callingState === CallingState.JOINED) {
-  //     return (
-  //       <StatusCard
-  //         title="Loading call ... "
-  //         description={`Status: ${callingState}`}
-  //         className="bg-gray-50 rounded-lg"
-  //       >
-  //         <div className="animate-pulse rounded-full h-12 w-12 bg-gray-400 mx-auto"></div>
-  //       </StatusCard>
-  //     );
-  //   }
-
   return (
     <div className="flex flex-col">
       <div className="flex-1 relative">
